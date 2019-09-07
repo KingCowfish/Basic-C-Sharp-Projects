@@ -1,0 +1,14 @@
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\bin\Debug\netcoreapp2.1\TestRun.deps.json
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\bin\Debug\netcoreapp2.1\TestRun.runtimeconfig.json
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\bin\Debug\netcoreapp2.1\TestRun.runtimeconfig.dev.json
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\bin\Debug\netcoreapp2.1\TestRun.dll
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\bin\Debug\netcoreapp2.1\TestRun.pdb
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.csprojAssemblyReference.cache
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.csproj.CoreCompileInputs.cache
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.RazorAssemblyInfo.cache
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.RazorAssemblyInfo.cs
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.AssemblyInfoInputs.cache
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.AssemblyInfo.cs
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.RazorTargetAssemblyInfo.cache
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.dll
+C:\Repos\Basic-C-Sharp-Projects\TestRun\TestRun\obj\Debug\netcoreapp2.1\TestRun.pdb
