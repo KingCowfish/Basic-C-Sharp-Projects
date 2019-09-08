@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Accounting", "Accounting\Accounting.csproj", "{3B8753CB-9901-4177-A1A2-B96B08DCF312}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B8753CB-9901-4177-A1A2-B96B08DCF312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B8753CB-9901-4177-A1A2-B96B08DCF312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B8753CB-9901-4177-A1A2-B96B08DCF312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B8753CB-9901-4177-A1A2-B96B08DCF312}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01A13318-8A93-47E3-8538-890DD5BC940C}
+	EndGlobalSection
+EndGlobal
