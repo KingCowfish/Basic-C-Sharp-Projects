@@ -1,0 +1,11 @@
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.deps.json
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.runtimeconfig.json
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.runtimeconfig.dev.json
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.dll
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\bin\Debug\netcoreapp2.1\Accounting.pdb
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.csprojAssemblyReference.cache
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.csproj.CoreCompileInputs.cache
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.AssemblyInfoInputs.cache
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.AssemblyInfo.cs
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.dll
+C:\Repos\Basic-C-Sharp-Projects\Accounting\Accounting\obj\Debug\netcoreapp2.1\Accounting.pdb
