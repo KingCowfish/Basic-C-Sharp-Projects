@@ -73,10 +73,6 @@ namespace Iteration
                     Console.WriteLine("Nope, that is not an item i need to buy.");
                     break;
                 }
-                else
-                {
-
-                }
             }
 
             //#9 and #10
@@ -91,27 +87,18 @@ namespace Iteration
             string cutie = Console.ReadLine();
             for (int i = 0; i < pets.Count; i++)
             {
-                if (cutie == "dog" && cutie == pets[i])
+                if (cutie == pets[i])
                 {
                     Console.WriteLine("Yes, a " + cutie + " is index number " + i + " on my list of pets i can sell you!");
-                }
-                else if (cutie == pets[i] && cutie != "dog")
-                {
-                    Console.WriteLine("Yep, a " + cutie + " is index number " + i + " on my list of " +
-                        "pets i can sell you.");
-                    break;
                 }
                 else if (!pets.Contains(cutie))
                 {
                     Console.WriteLine("Nope, i am not selling any of those right now.");
                     break;
                 }
-                else
-                {
-
-                }
             }
 
+            //#11
             List<string> boardGames = new List<string>();
             boardGames.Add("Battle For Rokugan");
             boardGames.Add("Dead Of Winter");
@@ -139,7 +126,6 @@ namespace Iteration
                     Console.WriteLine("Nope, I do not own that board game.");
                     break;
                 }
-                else { }
             }
 
             Console.ReadLine();
