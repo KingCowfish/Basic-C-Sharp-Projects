@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Generics
 {
-    interface IWalkAway
+    class Employee
     {
-        void WalkAway(Player player);
     }
 }
