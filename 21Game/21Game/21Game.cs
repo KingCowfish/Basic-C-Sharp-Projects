@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _21Game
 {
-    class _21Game : Game
+    class _21Game : Game, IWalkAway
     {
         public override void Play()
         {
@@ -17,6 +17,11 @@ namespace _21Game
         {
             Console.WriteLine("21 Players:");
             base.listPlayers();
+        }
+
+        public void WalkAway (Player player)
+        {
+            throw new NotImplementedException();
         }
     }
 }
