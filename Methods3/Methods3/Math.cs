@@ -16,7 +16,7 @@ namespace Methods3
 
         public decimal Mathing(decimal num1)
         {
-            decimal c = num1 - 362;
+            decimal c = num1 + 362;
             return c;
         }
 

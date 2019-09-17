@@ -13,11 +13,13 @@ namespace Methods3
             Math multi = new Math();
             Console.WriteLine(multi.Mathing(12));
 
-            Math sub = new Math();
-            Console.WriteLine(sub.Mathing(-75));
+            Math add = new Math();
+            int k = Convert.ToInt32(add.Mathing(75));
+            Console.WriteLine(k);
 
             Math added = new Math();
-            Console.WriteLine(added.Mathing("27"));
+            int j = Convert.ToInt32(added.Mathing("27"));
+            Console.WriteLine(j);
             Console.ReadLine();
         }
     }
