@@ -4,12 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Mehods5
+namespace Inheritance
 {
     class Program
     {
         static void Main(string[] args)
         {
+            Employee n = new Employee();
+            n.FirstName = "Sample";
+            n.LastName = "Student";
+            n.SayName();
+            Console.ReadLine();
         }
     }
 }
