@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace TwentyOneGame
+namespace Generics
 {
-    interface IWalkAway
+    class Program
     {
-        void WalkAway(Player player);
+        static void Main(string[] args)
+        {
+        }
     }
 }

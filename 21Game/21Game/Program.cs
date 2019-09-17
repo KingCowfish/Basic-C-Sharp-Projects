@@ -10,7 +10,6 @@ namespace _21Game
     {
         static void Main(string[] args)
         {
-            _21Game game = new _21Game();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
