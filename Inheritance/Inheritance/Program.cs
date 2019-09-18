@@ -20,7 +20,7 @@ namespace Inheritance
             e1.ID = 64;
 
             Employee e2 = new Employee();
-            e2.ID = 72;
+            e2.ID = 64;
 
             if (e1 == e2)
             {
