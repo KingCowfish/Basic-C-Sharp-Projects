@@ -12,8 +12,9 @@ namespace Inheritance
 
         public static bool operator== (Employee emp1, Employee emp2)
         {
-            if (emp1.Equals(emp2))
+            if (emp1.ID.Equals(emp2.ID))
             {
+
                 return true;
             }
             else
@@ -24,7 +25,7 @@ namespace Inheritance
 
         public static bool operator !=(Employee emp1, Employee emp2)
         {
-            return (!(emp1.Equals(emp2)));
+            return (!(emp1.ID.Equals(emp2.ID)));
         }
 
 
