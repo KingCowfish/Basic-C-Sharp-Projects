@@ -1,12 +1,13 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21Game
+namespace TwentyOne
 {
-    class _21Game : Game, IWalkAway
+    class TwentyOneGame : Game, IWalkAway
     {
         public override void Play()
         {
@@ -19,7 +20,7 @@ namespace _21Game
             base.listPlayers();
         }
 
-        public void WalkAway (Player player)
+        public void WalkAway(Player player)
         {
             throw new NotImplementedException();
         }

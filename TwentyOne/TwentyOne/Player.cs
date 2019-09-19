@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _21Game
+namespace TwentyOne
 {
     public class Player
     {
@@ -12,5 +12,16 @@ namespace _21Game
         public int Balance { get; set; }
         public string Name { get; set; }
         public bool isActivelyPlaying { get; set; }
+
+        public static Game operator+ (Game game, Player player)
+        {
+            game.Players.Add(player);
+            return game;
+        }
+        public static Game operator- (Game game, Player player)
+        {
+            game.Players.Remove(player);
+            return game;
+        }
     }
 }
