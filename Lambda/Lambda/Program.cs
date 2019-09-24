@@ -46,7 +46,7 @@ namespace Lambda
 
             List<Employee> namesJ = ListEmp.Where(x => x.firstName == "Joe").ToList();
 
-            List<Employee> hiID = ListEmp.Where(x => x.ID < 5).ToList();
+            List<Employee> hiID = ListEmp.Where(x => x.ID > 5).ToList();
 
             Console.ReadLine();
 

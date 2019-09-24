@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace TwentyOne
 {
@@ -10,7 +11,10 @@ namespace TwentyOne
     {
         static void Main(string[] args)
         {
+            string text = File.ReadAllText(@"C:\\ yada yada");
+            File.WriteAllText(@"C:\\ yada yada file name");
 
+            
             Deck deck = new Deck();
             deck.Shuffle(3);
 
