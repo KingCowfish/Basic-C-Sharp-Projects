@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwentyOne", "TwentyOne\TwentyOne.csproj", "{7E9A8523-C61D-483A-82CF-2CBFEB16F2D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeDrill", "DateTime\DateTimeDrill.csproj", "{3060B111-78B7-4827-BA5D-21BD1D17572F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{7E9A8523-C61D-483A-82CF-2CBFEB16F2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7E9A8523-C61D-483A-82CF-2CBFEB16F2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7E9A8523-C61D-483A-82CF-2CBFEB16F2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7E9A8523-C61D-483A-82CF-2CBFEB16F2D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3060B111-78B7-4827-BA5D-21BD1D17572F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3060B111-78B7-4827-BA5D-21BD1D17572F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3060B111-78B7-4827-BA5D-21BD1D17572F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3060B111-78B7-4827-BA5D-21BD1D17572F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {CF93FAE3-8259-4F1D-9D4A-3A8F5379A889}
+		SolutionGuid = {F00E4EC6-4FAB-4B2C-AAF0-6FE7FED76C5B}
 	EndGlobalSection
 EndGlobal
